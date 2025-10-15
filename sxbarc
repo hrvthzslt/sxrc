@@ -1,0 +1,11 @@
+bottom_bar          : false
+height              : 24
+vertical_padding    : 0
+horizontal_padding  : 0
+text_padding        : 4
+border              : false
+border_width        : 0
+background_colour   : #2C363C
+foreground_colour   : #F0EDEC
+border_colour       : #CFC1BA
+font                : terminus-bold-14
