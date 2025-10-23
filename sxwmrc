@@ -6,7 +6,7 @@ swap_border_colour       : #944927
 # General Options:
 gaps                    : 4
 border_width            : 2
-master_width            : 60 # Percentage of screen width
+master_width            : 55 # Percentage of screen width
 resize_master_amount    : 1
 resize_stack_amt        : 20
 snap_distance           : 5
